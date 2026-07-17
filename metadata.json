@@ -1,0 +1,6 @@
+{
+  "name": "Global Cyber Threat Monitor",
+  "description": "An interactive, real-time cyber attack map visualizing simulated global threat streams across a beautiful 3D WebGL holographic globe, complete with cyber security overlays, live log feeds, and active shield controllers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
